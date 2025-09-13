@@ -1,5 +1,5 @@
 <div align="center"><h1>Workshop Code & IA</h1></div>
-
+1:12:15
 
 ## Sobre o Workshop
 Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
