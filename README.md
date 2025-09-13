@@ -26,3 +26,14 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
   * Implementaçao do Resumidor
   * Testando a Solução
   * Introdução às APIs de áudio
+### Aula 02
+  * Recaptulação
+  * Geração de áudio com ElevenLabs
+  * Geração de FlashCards
+  * Construção do Front-End
+### Aula 03
+  * 
+  * 
+  * 
+  * 
+  
