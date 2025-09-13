@@ -32,8 +32,8 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
   * Geração de FlashCards
   * Construção do Front-End
 ### Aula 03
-  * 
-  * 
-  * 
-  * 
+  * Recaptulação
+  * Automação com n8n
+  * Refinamento
+  * Publicando no GitHub e Linlkedin
   
