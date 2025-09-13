@@ -21,11 +21,11 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
 
 ## Cronograma
 ### Aula 01
-  * Introdução ao Workshop
-  * Fundamentos da OpenAI API
-  * Implementaçao do Resumidor
-  * Testando a Solução
-  * Introdução às APIs de áudio
+  * Introdução ao Workshop      - 00:00
+  * Fundamentos da OpenAI API   - 32:45
+  * Implementaçao do Resumidor  -
+  * Testando a Solução          -         
+  * Introdução às APIs de áudio - 
 ### Aula 02
   * Recaptulação
   * Geração de áudio com ElevenLabs
@@ -36,4 +36,19 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
   * Automação com n8n
   * Refinamento
   * Publicando no GitHub e Linlkedin
+  
+## O que será desenvolvido
+**Notes Wise** 
+* Aplicação Full-Stack de anotações
+* Geração de Resumos
+* Geração de Audios
+* Geração de FlashCards
+
+
+
+
+
+## Links Úteis 
+* [OpenAI](https://platform.openai.com/signup) - Plataforma OpenAI
+
   
