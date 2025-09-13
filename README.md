@@ -23,7 +23,7 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
 ### Aula 01
   * Introdução ao Workshop      - 00:00
   * Fundamentos da OpenAI API   - 32:45
-  * Implementaçao do Resumidor  -
+  * Implementaçao do Resumidor  - 1:23:13
   * Testando a Solução          -         
   * Introdução às APIs de áudio - 
 ### Aula 02
