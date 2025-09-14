@@ -1,4 +1,6 @@
-<div align="center"><h1>Workshop Code & IA</h1></div>
+<div align="center"> 
+   <img width="1642" height="451" alt="image" src="https://github.com/user-attachments/assets/b7047d44-fa90-4a72-b47d-eec916563805" />
+</div>
 1:12:15
 
 ## Sobre o Workshop
