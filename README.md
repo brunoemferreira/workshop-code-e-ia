@@ -1,7 +1,7 @@
 <div align="center"> 
    <img width="1642" height="451" alt="image" src="https://github.com/user-attachments/assets/b7047d44-fa90-4a72-b47d-eec916563805" />
 </div>
-1:12:15
+
 
 ## Sobre o Workshop
 Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
@@ -25,7 +25,7 @@ Criaremos uma aplicação Full Stackcom uso de IA em todas as etapas:
 ### Aula 01
   * Introdução ao Workshop      - 00:00
   * Fundamentos da OpenAI API   - 32:45
-  * Implementaçao do Resumidor  - 1:23:13
+  * Implementaçao do Resumidor  - **1:23:13**
   * Testando a Solução          -         
   * Introdução às APIs de áudio - 
 ### Aula 02
